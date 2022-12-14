@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<Table>
+	<Table id="table1">
+        <Border id="1"></Border>
+        <tr>
+            <th>kolumna1</th>
+            <th>kolumna2</th>
+        </tr>
+        <tr>
+            <td>wiersz 1</td>
+            <td id="nested">wiersz2 </td>
+            <td>wiersz 3</td>
+        </tr>
+        <tr>
+            <td>wiersz 4</td>
+            <td>wiersz 5</td>
+        </tr>
+        <tr>
+            <td>wiersz6</td>
+            <td>wiersz 7</td>
+            <td>wiersz 8</td>
+        </tr>
+    </Table> 
+</Table>   
 
+
+
+
+</body>
+</html>
