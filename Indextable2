@@ -8,7 +8,7 @@
 </head>
 <body>
 <Table>
-	<border="1">
+	<table border="1">
 		<tr>
 			<th>kolumna 1</th>
 			<th>kolumna 2</th>
@@ -24,7 +24,7 @@
             <td>wiersz 8</td>
             <td>wiersz 9</td>
         </tr>
-	</border>
+	</table border="1" >
 </Table>   
 
 
