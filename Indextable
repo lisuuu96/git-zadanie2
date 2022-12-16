@@ -7,16 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-<Table>
-	<Table id="table1">
-        <Border id="1"></Border>
+    <Table border="1">
         <tr>
-            <th>kolumna1</th>
-            <th>kolumna2</th>
+            <th>Kolumna 1</th>
+            <th colspan="2">Kolumna2</th> 
         </tr>
         <tr>
             <td>wiersz 1</td>
-            <td id="nested">wiersz2 </td>
+            <td>wiersz 2</td>
             <td>wiersz 3</td>
         </tr>
         <tr>
@@ -24,15 +22,10 @@
             <td>wiersz 5</td>
         </tr>
         <tr>
-            <td>wiersz6</td>
+            <td>wiersz 6</td>
             <td>wiersz 7</td>
             <td>wiersz 8</td>
         </tr>
-    </Table> 
-</Table>   
-
-
-
-
+    </Table>
 </body>
 </html>
