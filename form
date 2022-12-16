@@ -8,10 +8,11 @@
 </head>
 <body>
 <form action="/action_page.php">
-    <label for="Imie">Imie></label><br>
-    <input type="text" name="Imie" id="Imie"><br>
-    <label for="lname">Nazwisko</label><br>
-    <input type="text" name="Nazwsko" id="Nazwisko"><br><br>
+    <label for="imie">Imie></label><br>
+    <input type="text" name="Imie" id="imie"><br>
+    <label for="nazwisko">Nazwisko</label><br>
+    <input type="text" name="nazwsko" id="nazwisko"><br><br>
     <input type="button" value="Wyslij">
  </form>
-</htm
+ </body>
+</html
