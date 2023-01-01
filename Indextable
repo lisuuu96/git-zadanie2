@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td>wiersz 1</td>
-            <td>wiersz 2</td>
+            <td rowspan="2">wiersz 2</td>
             <td>wiersz 3</td>
         </tr>
         <tr>
